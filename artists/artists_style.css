@@ -1,6 +1,7 @@
 body {
     background-image: url("https://wallpapercave.com/wp/wp1814735.png");
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: 100%;
 }
 
@@ -15,7 +16,6 @@ body {
     width: 18%;
     margin: 5px;
 }
-
 
 .paintor {
     margin: auto;
